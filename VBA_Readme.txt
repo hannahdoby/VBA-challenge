@@ -1,0 +1,2 @@
+I used a tutor, Kourt Bailey, to help me start out and define most of my variables, and create constants
+After the tutoring session, I joined in the bootcamp discord that I created for study groups, and I got help from Kristen, Matt, Nick, and Aubrey, and helped some of them as well
